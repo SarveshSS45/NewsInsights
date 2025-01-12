@@ -12,3 +12,19 @@ NewsInsight is a React-based news application that allows users to search and vi
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Top News Display**: Fetches and displays the top 10 articles based on search keywords.
 - **Interactive UI**: Built with React and styled using Tailwind CSS for a modern user experience.
+
+## Tech Stack
+
+### Frontend:
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
+
+### Backend:
+- [Node.js](https://nodejs.org/) (for authentication and email notifications)
+- [Nodemailer](https://nodemailer.com/) (for sending emails)
+
+### API:
+- [NewsAPI](https://newsapi.org/)
+
+
